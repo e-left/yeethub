@@ -4,3 +4,8 @@ backend/lib
 backend/lib64
 backend/share
 backend/pyvenv.cfg
+backend/src/__pycache__
+
+frontend/node_modules
+frontend/README.md
+frontend/package-lock.json
