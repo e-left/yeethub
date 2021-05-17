@@ -8,4 +8,4 @@ Yeethub is a web platform, designed for users to upload and share questionable p
 
 ## Code
 ---
-Yeethub is designed with the client-server architecture in mind. The backend is written in python using FastAPI, while the frontend is designed in ReactJS. It's mainly a pet project of mine to practice React and FastAPI, and the interactions between a backend and a frontend system.
+Yeethub is designed with the client-server architecture in mind. The backend is written in Node.js, while the frontend is designed in ReactJS. It's mainly a pet project of mine to practice full stack javascript development, and the interactions between a backend and a frontend system.
